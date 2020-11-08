@@ -1,6 +1,5 @@
 # labspy02
 # Program cari bilangan terbesar
-
 x= int(input("Masukkan bilangan ke-1: "))
 y= int(input("Masukkan bilangan ke-2: "))
 z= int(input("Masukkan bilangan ke-3: "))
